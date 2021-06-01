@@ -11,6 +11,7 @@
 		75693C10266648670034FDD8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75693C0F266648670034FDD8 /* ContentView.swift */; };
 		75693C12266648670034FDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75693C11266648670034FDD8 /* Assets.xcassets */; };
 		75693C15266648670034FDD8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75693C14266648670034FDD8 /* Preview Assets.xcassets */; };
+		75693C1D2666490F0034FDD8 /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75693C1C2666490F0034FDD8 /* ColorCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		75693C11266648670034FDD8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		75693C14266648670034FDD8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		75693C16266648670034FDD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75693C1C2666490F0034FDD8 /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				75693C0D266648670034FDD8 /* TrafficLights3App.swift */,
 				75693C0F266648670034FDD8 /* ContentView.swift */,
+				75693C1C2666490F0034FDD8 /* ColorCircle.swift */,
 				75693C11266648670034FDD8 /* Assets.xcassets */,
 				75693C16266648670034FDD8 /* Info.plist */,
 				75693C13266648670034FDD8 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				75693C10266648670034FDD8 /* ContentView.swift in Sources */,
 				75693C0E266648670034FDD8 /* TrafficLights3App.swift in Sources */,
+				75693C1D2666490F0034FDD8 /* ColorCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
